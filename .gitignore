@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma 本地向量数据库
+chroma_db/
+
+# Logs
+logs/
+*.log
+
+# MD5 去重记录（运行时生成）
+md5.text
+
+# Secrets / environment variables
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit secrets
+.streamlit/secrets.toml
