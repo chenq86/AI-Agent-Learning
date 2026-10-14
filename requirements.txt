@@ -1,0 +1,18 @@
+# Python dependencies for the AI Customer Support Agent
+# Requires Python 3.12
+# Versions are not yet locked.
+
+langchain>=1.0
+langchain-core
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+
+# Model provider and document processing
+dashscope
+pypdf
+PyYAML
+
+# Web interface
+streamlit
