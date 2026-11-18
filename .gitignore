@@ -3,14 +3,14 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Chroma 本地向量数据库
+#Local Chroma vector database
 chroma_db/
 
 # Logs
 logs/
 *.log
 
-# MD5 去重记录（运行时生成）
+# MD5 deduplication ledger (generated at runtime)
 md5.text
 
 # Secrets / environment variables

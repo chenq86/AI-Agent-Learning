@@ -1,5 +1,5 @@
 """
-总结服务类：用户提问，搜索参考资料，将提问和参考资料提交给模型，让模型总结回复
+Summarization service: retrieve references for a question, then submit the question and references to the model for a summarized answer.
 """
 from rag.vector_store import VectorStoreService
 from utils.prompt_loader import load_rag_prompts
@@ -40,7 +40,7 @@ class RagSummarizeService(object):
         counter = 0
         for doc in context_docs:
             counter += 1
-            context += f"【参考资料{counter}】：参考资料：{doc.page_content} | 参考元数据：{doc.metadata}\n"
+            context += f"[Reference {counter}]: Reference: {doc.page_content} | Reference metadata: {doc.metadata}\n"
         return self.chain.invoke(
             {
                 "input": query,
@@ -51,6 +51,6 @@ class RagSummarizeService(object):
 
 if __name__ == "__main__":
     rag = RagSummarizeService()
-    print(rag.retriever_docs("小户型适合哪些扫地机器人"))
+    print(rag.retriever_docs("Which robot vacuums are suitable for small apartments"))
 
     

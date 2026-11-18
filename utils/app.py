@@ -3,7 +3,7 @@ from agent.react_agent import ReactAgent
 import time
 
 #标题
-st.title("智扫通机器人智能客服")
+st.title("ZhisaoTong Robot Customer Support")
 st.divider()
 
 if "agent" not in st.session_state:
@@ -17,25 +17,22 @@ for message in st.session_state["message"]:
 
 
 
-#用户输入提示词
+#User input prompt
 prompt = st.chat_input()
 
 if prompt:
     st.chat_message("user").write(prompt)
     st.session_state["message"].append({"role":"user", "content": prompt})
 
-    response_messages = []
-    with st.spinner("智能客服思考中。。。"):
-        res_stream = st.session_state["agent"].execute_stream(prompt)
+    # Generate assistant response
+    with st.chat_message("assistant"):
+        with st.spinner("Customer support assistant is thinking..."):
+            response = st.write_stream(
+                st.session_state["agent"].execute_stream(prompt)
+            )
 
-        def capture(generator, cache_list):
-            for chunk in generator:
-                cache_list.append(chunk)
-                for char in chunk:
-                    time.sleep(0.01)
-                    yield char
-
-        st.chat_message("assistant").write_stream(capture(res_stream, response_messages))
-        st.session_state["message"].append({"role": "assistant", "content": response_messages[-1]})
-
-        st.rerun()
+    # Save complete assistant response
+    st.session_state["message"].append({
+        "role": "assistant",
+        "content": response
+    })

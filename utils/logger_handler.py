@@ -4,13 +4,13 @@ from utils.path_tool import get_abs_path
 from datetime import datetime
 
 
-#日志保存的根目录
+#Root directory for log files
 LOG_ROOT= get_abs_path("logs")
 
-#确保日志的目录存在
+#Ensure the log directory exists
 os.makedirs(LOG_ROOT, exist_ok=True)
 
-#日志的格式配置
+#Log format configuration
 DEFAULT_LOG_FORMAT = logging.Formatter(
     '%(asctime)s - %(name)s - %(levelname)s - %(filename)s:%(lineno)d - %(message)s'
 )
@@ -25,19 +25,19 @@ def get_logger(
     logger = logging.getLogger(name)
     logger.setLevel(logging.DEBUG)
 
-    #避免重复添加Handler
+    #Avoid adding duplicate handlers
     if logger.handlers:
         return logger
 
-    #控制台Handler
+    #Console Handler
     console_handler = logging.StreamHandler()
     console_handler.setLevel(console_level)
     console_handler.setFormatter(DEFAULT_LOG_FORMAT)
 
     logger.addHandler(console_handler)
 
-    #文件Handler
-    if not log_file:    #日志文件的存放路径
+    #File Handler
+    if not log_file:    #Log file path
         log_file = os.path.join(LOG_ROOT, f"{name}_{datetime.now().strftime('%Y%m%d')}.log")
 
     file_handler = logging.FileHandler(log_file, encoding='utf-8')
@@ -49,12 +49,12 @@ def get_logger(
     return logger
 
 
-#快捷获取日志器
+#Shared logger instance
 logger = get_logger()
 
 
 if __name__ == "__main__":
-    logger.info("信息日志")
-    logger.error("错误日志")
-    logger.warning("警告日志")
-    logger.debug("调试日志")
+    logger.info("Information log")
+    logger.error("Error log")
+    logger.warning("Warning log")
+    logger.debug("Debug log")

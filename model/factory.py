@@ -4,6 +4,8 @@ from langchain_core.embeddings import Embeddings
 from langchain_community.embeddings import DashScopeEmbeddings
 from langchain_community.chat_models.tongyi import ChatTongyi, BaseChatModel
 from utils.config_handler import rag_conf
+import os
+from langchain_openai import ChatOpenAI
 
 class BaseModelFactory(ABC):
     @abstractmethod
@@ -14,8 +16,11 @@ class BaseModelFactory(ABC):
 
 class ChatModelFactory(BaseModelFactory):
     def generator(self) -> Optional[Embeddings | BaseChatModel]:
-        return ChatTongyi(model=rag_conf["chat_model_name"])
-
+        return ChatOpenAI(
+             model=rag_conf["chat_model_name"],
+             api_key=os.getenv("DASHSCOPE_API_KEY"),
+             base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
+)
 
 class EmbeddingsFactory(BaseModelFactory):
     def generator(self) -> Optional[Embeddings | BaseChatModel]:

@@ -1,401 +1,401 @@
-扫地/扫拖一体机器人选购指南200条
+Buying Guide for Sweeping/Sweeping-and-Mopping Robots: 200 Tips
 
-1. 选购核心：优先明确使用场景，独居小户型侧重轻便灵活，多口之家带宠物需强化吸力和防缠绕功能。
+1. Core Selection Principle: Prioritize clarifying usage scenarios. For small apartments with single occupants, focus on lightweight and flexible models; for multi-person households with pets, emphasize suction power and anti-tangle features.
 
-2. 吸力参数：家用建议选择≥3000Pa吸力机型，地毯场景需≥4000Pa，吸力可调节更适配不同地面。
+2. Suction Parameters: For home use, it is recommended to choose models with ≥3000Pa suction power. For carpeted areas, ≥4000Pa is required. Adjustable suction power is more suitable for different floor types.
 
-3. 导航技术：激光导航定位精准、抗干扰强，适合复杂户型；视觉导航性价比高，避免强光环境使用。
+3. Navigation Technology: Laser navigation offers precise positioning and strong interference resistance, making it suitable for complex layouts. Visual navigation provides better cost-effectiveness but should be avoided in strong light environments.
 
-4. 避障能力：3D结构光避障识别精度优于红外，可有效避开细小杂物，带宠物家庭优先选此配置。
+4. Obstacle Avoidance Capability: 3D structured light obstacle avoidance has higher recognition accuracy than infrared and can effectively avoid small debris. Households with pets should prioritize this configuration.
 
-5. 续航时长：小户型（≤80㎡）需≥60分钟，大户型（≥120㎡）建议≥120分钟，支持断点续扫更实用。
+5. Battery Life: Small apartments (≤80㎡) require ≥60 minutes of runtime. Large apartments (≥120㎡) are recommended to have ≥120 minutes. Support for resume cleaning after interruption is more practical.
 
-6. 水箱容量：清水箱≥300ml、污水箱≥250ml适配大户型，小户型可选择200ml左右容量，减少机身重量。
+6. Water Tank Capacity: A clean water tank ≥300ml and a dirty water tank ≥250ml are suitable for large apartments. For small apartments, a capacity of around 200ml can be chosen to reduce body weight.
 
-7. 拖布类型：电动旋转拖布清洁力优于静压拖布，顽固污渍场景必备，木地板建议选可抬升拖布款。
+7. Mop Type: Electric rotating mops offer superior cleaning power compared to static pressure mops and are essential for stubborn stain scenarios. For wooden floors, it is recommended to choose models with lift-up mop functions.
 
-8. 集尘功能：懒人首选自动集尘款，集尘袋容量≥2.5L可减少更换频率，注意选择密封防漏灰设计。
+8. Dust Collection Function: Automatic dust collection models are the top choice for those seeking convenience. A dust bag capacity ≥2.5L reduces replacement frequency. Pay attention to selecting designs with sealed, leak-proof dust containment.
 
-9. 自动洗拖布：优先选热风烘干款，避免拖布发霉异味，清洗转速≥150转/分钟清洁更彻底。
+9. Automatic Mop Washing: Prioritize models with hot air drying to prevent mold and odors on mops. Cleaning rotation speed ≥150 rpm ensures more thorough washing.
 
-10. 品牌选择：一线品牌（科沃斯、石头）品控和售后更完善，小众品牌需确认本地是否有维修网点。
+10. Brand Selection: First-tier brands (Ecovacs, Roborock) offer more comprehensive quality control and after-sales service. For niche brands, confirm whether there are local repair outlets.
 
-11. 机身高度：床底/沙发底高度≤8cm，需选机身高度≤7.5cm机型，避免无法进入清扫死角。
+11. Body Height: If the height under beds/sofas is ≤8cm, choose models with a body height ≤7.5cm to avoid inability to reach cleaning dead zones.
 
-12. 越障能力：门槛高度≤2cm选越障≥2cm机型，地毯场景需强化驱动轮动力，避免卡困。
+12. Threshold Crossing Ability: For thresholds with height ≤2cm, choose models capable of crossing obstacles ≥2cm. For carpet scenarios, enhanced drive wheel power is needed to avoid getting stuck.
 
-13. 过滤系统：HEPA滤网等级≥H13可过滤细小灰尘和过敏原，过敏体质家庭必备，注意滤网是否可水洗。
+13. Filtration System: HEPA filter grade ≥H13 can filter fine dust and allergens, which is essential for households with allergy-prone members. Note whether the filter is washable.
 
-14. 主刷设计：防缠绕主刷（带硅胶条）适合长发/宠物家庭，无主刷款适合短毛地毯和硬质地面。
+14. Main Brush Design: Anti-tangle main brushes (with silicone strips) are suitable for households with long hair or pets. Brushless designs are suitable for short-pile carpets and hard floors.
 
-15. 边刷配置：双边刷清扫覆盖率优于单边刷，边角清洁更到位，可调节转速款适配不同地面。
+15. Side Brush Configuration: Dual side brushes provide better coverage than single side brushes, ensuring more thorough corner cleaning. Models with adjustable rotation speeds are suitable for different floor types.
 
-16. APP功能：支持分区清扫、禁区设置、定时任务为基础功能，高阶可选语音控制、多楼层地图。
+16. APP Functions: Basic functions include zone cleaning, no-go area settings, and scheduled tasks. Advanced options may include voice control and multi-floor maps.
 
-17. 网络适配：确认支持2.4G/5G双频WiFi，单2.4G机型需确保路由器信号覆盖无死角。
+17. Network Compatibility: Confirm support for dual-band WiFi (2.4G/5G). For models supporting only 2.4G, ensure router signal coverage has no dead zones.
 
-18. 噪音控制：工作噪音≤55dB更适合卧室使用，地毯模式噪音会升高，优先选降噪电机机型。
+18. Noise Control: Operating noise ≤55dB is more suitable for bedroom use. Noise levels increase in carpet mode; prioritize models with noise-reducing motors.
 
-19. 电池类型：锂电池续航和寿命优于镍镉电池，容量≥5200mAh适配大户型，支持快充功能更便捷。
+19. Battery Type: Lithium batteries offer better battery life and longevity than nickel-cadmium batteries. Capacity ≥5200mAh is suitable for large apartments. Support for fast charging adds convenience.
 
-20. 充电效率：快充模式（2小时内充满）适合频繁使用，普通充电（3-4小时）性价比更高。
+20. Charging Efficiency: Fast charging mode (full charge within 2 hours) is suitable for frequent use. Standard charging (3-4 hours) offers better cost-effectiveness.
 
-21. 材质选择：机身外壳优先ABS耐磨材质，拖布支架选不锈钢防生锈，密封圈选食品级硅胶。
+21. Material Selection: Prioritize ABS wear-resistant material for the body shell. Choose stainless steel for mop brackets to prevent rust. Select food-grade silicone for sealing rings.
 
-22. 清洁模式：必备自动、沿边、定点模式，高阶可选地毯增压、静音、精扫模式，适配不同场景。
+22. Cleaning Modes: Essential modes include automatic, edge-following, and spot cleaning. Advanced options include carpet boost, silent, and precision cleaning modes to suit different scenarios.
 
-23. 污水箱设计：带浮球感应可防止污水回流，易拆卸清洗款更省心，避免残留异味。
+23. Dirty Water Tank Design: Float ball sensors prevent dirty water backflow. Easily detachable and washable designs are more hassle-free and help avoid residual odors.
 
-24. 水箱密封：选择双重密封圈设计，防止渗水损坏机身内部零件，试用时可倾斜机身测试。
+24. Water tank seal: Choose a design with double sealing rings to prevent water leakage from damaging internal components; test by tilting the body during trial use.
 
-25. 语音控制：支持小爱同学、天猫精灵等主流语音助手，懒人操作更便捷，确认语音识别精度。
+25. Voice control: Supports mainstream voice assistants such as Xiao Ai Tongxue and Tmall Genie for more convenient hands-free operation; verify voice recognition accuracy.
 
-26. 多楼层地图：复式户型必备，可存储≥3张地图，切换楼层时定位精准不跑偏。
+26. Multi-floor maps: Essential for duplex layouts; can store ≥3 maps, ensuring precise positioning without drift when switching floors.
 
-27. 童锁功能：有小孩家庭需开启童锁，防止误触操作，确保机身按键和APP均可设置。
+27. Child lock function: Families with children should enable the child lock to prevent accidental operations; ensure it can be set via both body buttons and the APP.
 
-28. 售后政策：优先选整机保修≥2年、核心部件（电机、电池）保修≥3年的机型，售后响应时效≤24小时。
+28. After-sales policy: Prioritize models with whole-machine warranty ≥2 years and core component (motor, battery) warranty ≥3 years; after-sales response time ≤24 hours.
 
-29. 配件成本：确认滤网、拖布、边刷等易损件价格，选择通用性强、性价比高的机型，降低长期使用成本。
+29. Accessory cost: Confirm prices for consumables like filters, mop cloths, and side brushes; choose models with high compatibility and cost-effectiveness to reduce long-term usage costs.
 
-30. 重量控制：机身重量≤5kg更便于手动搬运，清洁充电座和移动至不同楼层更省力。
+30. Weight control: A body weight ≤5kg is easier for manual lifting, making cleaning the charging dock and moving between floors less strenuous.
 
-31. 地面适配：木地板需选拖布可抬升、出水量可调款，瓷砖地面优先强吸力+旋转拖布组合。
+31. Floor adaptation: For wooden floors, choose models with liftable mop cloths and adjustable water output; for tile floors, prioritize strong suction + rotating mop combinations.
 
-32. 宠物专属：带宠物家庭额外关注防毛发缠绕、除味功能，可选带宠物模式的机型，强化毛发清扫。
+32. Pet-specific features: Households with pets should pay extra attention to anti-hair tangling and deodorizing functions; consider models with pet modes to enhance hair cleaning.
 
-33. 粉尘处理：细粉尘多的场景（如装修后）选密封尘盒+高效过滤，避免二次扬尘。
+33. Dust handling: In scenarios with fine dust (e.g., after renovation), choose sealed dust bins + high-efficiency filtration to avoid secondary dust dispersion.
 
-34. 操作难度：长辈使用优先选按键简洁、APP界面直观的机型，避免复杂设置。
+34. Ease of operation: For elderly users, prioritize models with simple buttons and intuitive APP interfaces, avoiding complex settings.
 
-35. 固件更新：支持OTA在线升级，可优化导航算法、新增功能，确保长期使用体验迭代。
+35. Firmware updates: Supports OTA online upgrades to optimize navigation algorithms and add new features, ensuring iterative improvements in long-term user experience.
 
-36. 充电座设计：充电触点带防氧化涂层，防滑底座避免移位，支持自动回充精准度≥95%。
+36. Charging dock design: Charging contacts feature anti-oxidation coating; non-slip base prevents shifting; supports auto-recharge accuracy ≥95%.
 
-37. 机身按键：至少配备开机、回充、清扫快捷键，按键反馈清晰，防水设计便于清洁机身。
+37. Body buttons: Equipped with at least power on, return-to-charge, and quick-clean shortcuts; clear button feedback; waterproof design facilitates body cleaning.
 
-38. 防跌落功能：底部≥4组防跌落传感器，检测范围广，避免从楼梯、高台坠落损坏。
+38. Anti-drop function: Bottom has ≥4 sets of anti-drop sensors with wide detection range to prevent falling damage from stairs or high platforms.
 
-39. 驱动轮材质：橡胶材质防滑性优于塑料，带纹路设计增强抓地力，适配地毯和湿滑地面。
+39. Drive wheel material: Rubber material offers better slip resistance than plastic; textured design enhances grip, suitable for carpets and slippery floors.
 
-40. 万向轮设计：可360°旋转无卡顿，带防缠绕盖，避免毛发缠绕影响转向。
+40. Caster wheel design: Rotates 360° smoothly without sticking; includes an anti-tangle cover to prevent hair entanglement affecting steering.
 
-41. 清洁覆盖率：选购时可参考实测覆盖率≥98%，避免漏扫大片区域，优先选规划式清扫机型。
+41. Cleaning coverage rate: Refer to measured coverage rate ≥98% when purchasing to avoid missing large areas; prioritize planned cleaning models.
 
-42. 出水量调节：至少分3档调节，木地板用低档、瓷砖用中档、顽固污渍用高档，精准适配场景。
+42. Water output adjustment: At least 3 levels of adjustment; low level for wooden floors, medium for tiles, high for stubborn stains, precisely adapting to scenarios.
 
-43. 清洁液适配：支持添加专用清洁液，避免使用腐蚀性强的清洁剂，部分机型带清洁液自动配比功能。
+43. Cleaning solution compatibility: Supports adding dedicated cleaning solutions; avoid using highly corrosive cleaners; some models feature automatic cleaning solution mixing.
 
-44. 机身防水：机身防水等级≥IPX4，可应对潮湿地面和轻微洒水，避免进水短路。
+44. Body waterproofing: Body waterproof rating ≥IPX4, capable of handling wet floors and minor splashes, preventing short circuits from water ingress.
 
-45. 散热设计：电机散热孔位置合理，避免被杂物遮挡，长时间工作不发热保护电机寿命。
+45. Heat dissipation design: Motor heat dissipation holes are positioned reasonably to avoid blockage by debris; prevents overheating during prolonged work, protecting motor lifespan.
 
-46. 地图编辑：支持手动绘制清扫区域、删除错误地图，可调整禁区范围，适配复杂户型。
+46. Map editing: Supports manually drawing cleaning zones, deleting erroneous maps, and adjusting no-go zone ranges, adapting to complex layouts.
 
-47. 断点续扫：电量耗尽充电后可恢复清扫进度，避免重复清扫，节省时间和电量。
+47. Resume cleaning: Can resume cleaning progress after recharging following battery depletion, avoiding repeated cleaning and saving time and power.
 
-48. 能耗控制：节能模式下续航可延长30%以上，日常清洁选节能模式，顽固污渍切换强力模式。
+48. Energy Consumption Control: In energy-saving mode, battery life can be extended by more than 30%. Choose energy-saving mode for daily cleaning and switch to strong mode for stubborn stains.
 
-49. 外观设计：机身颜色与家居风格适配，简约哑光材质耐脏易清洁，避免高光材质留指纹。
+49. Appearance Design: The body color should match the home style. Simple matte materials are dirt-resistant and easy to clean; avoid high-gloss materials that show fingerprints.
 
-50. 包装保护：开箱检查包装是否完好，配件是否齐全（充电座、电源线、滤网、拖布等），有无磕碰痕迹。
+50. Packaging Protection: Check if the packaging is intact upon unboxing, ensure all accessories are complete (charging dock, power cord, filter, mop cloth, etc.), and look for any signs of impact or damage.
 
-51. 实测体验：条件允许可现场试用，测试导航精准度、避障效果、吸力大小和拖地效果。
+51. Real-World Experience: If conditions permit, try it on-site to test navigation accuracy, obstacle avoidance performance, suction power, and mopping effectiveness.
 
-52. 口碑参考：优先查看真实用户评价，重点关注续航、避障、售后等长期使用反馈，避开差评集中机型。
+52. Reputation Reference: Prioritize real user reviews, focusing on long-term feedback regarding battery life, obstacle avoidance, and after-sales service. Avoid models with concentrated negative reviews.
 
-53. 价格区间：预算3000元内选基础款（激光导航+旋转拖布），5000元以上可选自动集尘+热风烘干款。
+53. Price Range: For budgets under 3000 yuan, choose basic models (laser navigation + rotating mop). For prices above 5000 yuan, options include automatic dust collection + hot air drying.
 
-54. 促销时机：618、双11等大促节点价格优惠幅度大，部分机型可叠加优惠券和赠品，降低入手成本。
+54. Promotion Timing: Major sales events like 618 and Double 11 offer significant price discounts. Some models allow stacking coupons and gifts, reducing the purchase cost.
 
-55. 翻新机鉴别：通过序列号查询出厂日期，检查机身螺丝是否有拆卸痕迹，优先选官方渠道购买。
+55. Refurbished Unit Identification: Check the manufacturing date via the serial number and inspect screws on the body for signs of disassembly. Prefer purchasing from official channels.
 
-56. 区域清扫：支持自定义区域大小，最小可清扫≤1㎡区域，适合清理局部污渍。
+56. Zone Cleaning: Supports custom zone sizes, with a minimum cleanable area of ≤1㎡, suitable for cleaning localized stains.
 
-57. 定时清扫：可设置每日固定时间清扫，支持每周循环设置，满足规律清洁需求。
+57. Scheduled Cleaning: Can set fixed daily cleaning times and supports weekly recurring schedules to meet regular cleaning needs.
 
-58. 电量提醒：APP和机身指示灯双重提醒低电量，剩余电量≥20%时自动回充，避免中途停机。
+58. Battery Reminder: Dual reminders via APP and body indicator lights for low battery. Automatically returns to charge when remaining battery ≥20% to avoid mid-cycle shutdowns.
 
-59. 电机类型：无刷电机噪音小、寿命长（≥5000小时），优于有刷电机，优先选择无刷电机机型。
+59. Motor Type: Brushless motors have lower noise and longer lifespan (≥5000 hours), outperforming brushed motors. Prioritize models with brushless motors.
 
-60. 尘盒容量：≥500ml可减少清理频率，宠物家庭建议选≥600ml，密封尘盒防异味扩散。
+60. Dustbin Capacity: ≥500ml reduces cleaning frequency. For households with pets, it is recommended to choose ≥600ml. Sealed dustbins prevent odor diffusion.
 
-61. 滤网更换：可水洗滤网更经济环保，建议每月清洗1-2次，不可水洗滤网每3个月更换一次。
+61. Filter Replacement: Washable filters are more economical and eco-friendly; recommend washing 1-2 times per month. Non-washable filters should be replaced every 3 months.
 
-62. 拖布更换：魔术贴设计便于拆卸更换，拖布材质选超细纤维，吸水强、去污力好，不易掉毛。
+62. Mop Cloth Replacement: Velcro design facilitates removal and replacement. Choose microfiber material for mop cloths due to strong water absorption, good stain removal, and resistance to shedding.
 
-63. 边刷寿命：优质边刷使用寿命≥3个月，选择可单独更换单边的机型，避免浪费。
+63. Side Brush Lifespan: High-quality side brushes have a lifespan of ≥3 months. Choose models where individual side brushes can be replaced separately to avoid waste.
 
-64. 导航算法：优先选SLAM算法机型，建图速度快、精度高，复杂户型不易迷路。
+64. Navigation Algorithm: Prioritize models using SLAM algorithms for fast mapping speed and high precision, making them less likely to get lost in complex layouts.
 
-65. 避障范围：3D避障识别距离≥30cm，可提前规避障碍物，减少碰撞和卡困。
+65. Obstacle Avoidance Range: 3D obstacle avoidance has a recognition distance of ≥30cm, allowing early evasion of obstacles to reduce collisions and getting stuck.
 
-66. 地毯识别：自动识别地毯并开启增压模式，离开地毯后恢复正常吸力，节省电量。
+66. Carpet Recognition: Automatically recognizes carpets and activates boost mode. Returns to normal suction power after leaving the carpet to save battery.
 
-67. 防缠绕技术：主刷带自动切割毛发功能，适合长发家庭，避免手动拆解清理。
+67. Anti-Tangle Technology: Main brush features automatic hair cutting function, suitable for households with long-haired members, avoiding manual disassembly for cleaning.
 
-68. 机身接口：预留充电接口便于应急充电，部分机型带USB接口，可临时给其他设备供电。
+68. Body Interface: Reserved charging interface facilitates emergency charging. Some models feature USB interfaces for temporarily powering other devices.
 
-69. 清洁日志：APP可查看清扫时间、面积、路径，便于了解清洁情况，优化清扫计划。
+69. Cleaning Log: APP allows viewing cleaning time, area, and path, facilitating understanding of cleaning status and optimization of cleaning plans.
 
-70. 故障自检：机身可自动检测故障并在APP提示，便于快速排查问题，减少售后沟通成本。
+70. Fault Self-Diagnosis: The body automatically detects faults and prompts via APP, facilitating quick troubleshooting and reducing after-sales communication costs.
 
-71. 异地控制：支持远程控制清扫，出差时可开启清扫，回家即可享受干净环境。
+71. Remote Control: Supports remote control cleaning. You can start cleaning while on business trips and enjoy a clean environment upon returning home.
 
-72. 多设备联动：可与智能家居设备联动（如智能音箱、摄像头），实现场景化清洁。
+72. Multi-device linkage: Can link with smart home devices (such as smart speakers and cameras) to enable scenario-based cleaning.
 
-73. 机身尺寸：宽度≤35cm便于在家具缝隙中穿梭，长度≤35cm提升转向灵活性。
+73. Body dimensions: Width ≤35cm facilitates navigation through gaps between furniture, while length ≤35cm improves turning flexibility.
 
-74. 充电功率：充电功率≥15W充电速度更快，功率≤10W更节能，根据使用需求选择。
+74. Charging power: Charging power ≥15W offers faster charging speed, while power ≤10W is more energy-efficient; choose based on usage needs.
 
-75. 电池循环寿命：≥500次循环后容量衰减≤20%，优质电池可使用2-3年无需更换。
+75. Battery cycle life: Capacity degradation ≤20% after ≥500 cycles; high-quality batteries can last 2-3 years without replacement.
 
-76. 防氧化处理：充电触点、螺丝等金属部件带防氧化处理，延长机身使用寿命，避免生锈。
+76. Anti-oxidation treatment: Metal components such as charging contacts and screws feature anti-oxidation treatment to extend body lifespan and prevent rusting.
 
-77. 清洁模式记忆：可记忆上次使用的清洁模式和参数，下次开机直接沿用，无需重复设置。
+77. Cleaning mode memory: Remembers the previously used cleaning mode and parameters, allowing direct reuse upon next startup without repeated settings.
 
-78. 静音设计：采用降噪风道和减震脚垫，工作时噪音≤50dB，不影响日常休息和办公。
+78. Silent design: Adopts noise-reducing air ducts and shock-absorbing foot pads, with working noise ≤50dB, ensuring no disturbance to daily rest or office work.
 
-79. 湿拖禁区：可设置湿拖禁区，避免在地毯、木质地板边缘等区域湿拖，防止受潮损坏。
+79. Wet mopping restricted zones: Allows setting wet mopping restricted zones to avoid mopping areas like carpets and wooden floor edges, preventing moisture damage.
 
-80. 干拖功能：单独开启干拖模式，适合日常除尘，避免湿拖后地面潮湿。
+80. Dry mopping function: Supports standalone dry mopping mode, suitable for daily dust removal, avoiding damp floors after wet mopping.
 
-81. 顽固污渍处理：支持定点重复清扫（≥3次），旋转拖布加压设计，轻松去除顽固污渍。
+81. Stubborn stain handling: Supports spot-specific repeated cleaning (≥3 times) with a pressurized rotating mop design to easily remove stubborn stains.
 
-82. 机身散热孔：散热孔带防尘网，防止灰尘进入电机，影响散热和使用寿命。
+82. Body heat dissipation holes: Heat dissipation holes come with dust nets to prevent dust from entering the motor, which could affect heat dissipation and lifespan.
 
-83. 移动速度：清洁速度≥0.3m/s效率更高，支持调速功能，静音模式可降低速度减少噪音。
+83. Movement speed: Cleaning speed ≥0.3m/s ensures higher efficiency; supports speed adjustment, with silent mode reducing speed to lower noise.
 
-84. 回充精准度：在复杂环境下回充精准度≥90%，避免找不到充电座导致电量耗尽。
+84. Return-to-dock accuracy: Achieves return-to-dock accuracy ≥90% in complex environments, preventing battery depletion due to failure to locate the charging dock.
 
-85. 配件收纳：部分机型带配件收纳盒，便于存放滤网、拖布等易损件，整洁不丢失。
+85. Accessory storage: Some models include an accessory storage box for convenient storage of consumables like filters and mop cloths, keeping them organized and preventing loss.
 
-86. 清洁液容量：清洁液盒容量≥100ml，可使用1-2周，避免频繁添加。
+86. Cleaning solution capacity: Cleaning solution tank capacity ≥100ml allows use for 1-2 weeks, avoiding frequent refills.
 
-87. 机身指示灯：不同颜色指示灯区分工作、充电、故障状态，直观了解机身情况。
+87. Body indicator lights: Indicator lights of different colors distinguish between working, charging, and fault states, providing intuitive insight into the device status.
 
-88. 防倾倒设计：机身重心偏低，避免在斜坡或不平整地面倾倒，保护机身和家具。
+88. Anti-tip design: The body has a low center of gravity to prevent tipping on slopes or uneven surfaces, protecting both the device and furniture.
 
-89. 软件稳定性：APP无频繁卡顿、闪退，连接稳定性≥95%，避免控制失效。
+89. Software stability: The APP experiences no frequent lagging or crashes, with connection stability ≥95%, preventing control failures.
 
-90. 语言支持：APP支持多语言切换，适合外籍人士使用，界面简洁易懂。
+90. Language support: The APP supports multi-language switching, suitable for foreign users, with a simple and easy-to-understand interface.
 
-91. 灰尘感应：带灰尘感应传感器，可自动检测地面灰尘浓度，调整吸力大小，节能高效。
+91. Dust sensing: Equipped with a dust sensor that automatically detects ground dust concentration and adjusts suction power for energy-efficient performance.
 
-92. 边角清扫：边刷可伸缩设计，贴近墙角清扫，减少边角清洁死角。
+92. Corner cleaning: Side brushes feature a retractable design to clean close to wall corners, reducing blind spots in corner cleaning.
 
-93. 机身防护：边角带防撞缓冲垫，减少碰撞时对机身和家具的损伤。
+93. Body protection: Corners are equipped with anti-collision buffer pads to minimize damage to the body and furniture during collisions.
 
-94. 安装难度：充电座无需复杂安装，通电即可使用，部分机型带定位贴，便于固定位置。
+94. Installation difficulty: The charging dock requires no complex installation and works immediately upon powering on; some models include positioning stickers to facilitate fixed placement.
 
-95. 便携性：机身带提手设计，搬运更方便，适合经常移动使用的场景。
+95. Portability: The body features a handle design for easier carrying, suitable for scenarios requiring frequent movement.
 
-96. 水质适配：水箱支持自来水和纯净水，部分机型带水质过滤，避免水垢堵塞管道。
+96. Water Quality Compatibility: The water tank supports tap water and purified water; some models include water quality filtration to prevent scale buildup from clogging pipes.
 
-97. 清洁面积：单次清扫面积≥100㎡适配大户型，小户型选择≥60㎡即可满足需求。
+97. Cleaning Area: A single cleaning session area of ≥100 m² is suitable for large apartments, while ≥60 m² is sufficient for small apartments.
 
-98. 电机功率：吸尘电机功率≥300W吸力更足，拖布电机功率≥20W旋转更有力。
+98. Motor Power: Suction motor power of ≥300W provides stronger suction, and mop motor power of ≥20W ensures more powerful rotation.
 
-99. 线缆长度：充电座电源线长度≥1.5m，便于灵活摆放充电位置，避免电源接口不足。
+99. Cable Length: The charging dock power cord length should be ≥1.5m to allow flexible placement of the charging station and avoid insufficient power outlets.
 
-100. 质保范围：明确质保范围，人为损坏（如跌落、进水）不在质保内，购买时可额外购买意外险。
+100. Warranty Scope: Clearly define the warranty scope; man-made damage (such as drops or water ingress) is not covered by the warranty, but accident insurance can be purchased additionally at the time of purchase.
 
-101. 二手保值率：一线品牌机型二手保值率更高，后续更换新机时可减少损失。
+101. Second-hand Resale Value: First-tier brand models have higher second-hand resale value, reducing losses when upgrading to a new machine later.
 
-102. 清洁顺序：支持自定义清洁顺序（如从里到外、从左到右），适配不同户型清洁习惯。
+102. Cleaning Sequence: Supports custom cleaning sequences (e.g., inside-out, left-to-right) to adapt to different apartment layouts and cleaning habits.
 
-103. 防毛发缠绕边刷：边刷带硅胶防缠绕条，减少毛发缠绕，清洁更省心。
+103. Anti-Hair-Tangle Side Brush: The side brush features silicone anti-tangle strips to reduce hair tangling, making cleaning more hassle-free.
 
-104. 机身重量分布：重量均匀分布，避免单侧偏重导致移动卡顿或清扫不均。
+104. Body Weight Distribution: Even weight distribution prevents one-sided heaviness that could cause movement stuttering or uneven cleaning.
 
-105. 滤网材质：HEPA滤网选玻璃纤维材质，过滤效果优于无纺布，使用寿命更长。
+105. Filter Material: For HEPA filters, choose fiberglass material, which offers better filtration performance than non-woven fabric and has a longer lifespan.
 
-106. 拖布压力：电动拖布压力≥5N，可增强清洁力，避免拖布轻贴地面清洁不彻底。
+106. Mop Pressure: Electric mop pressure of ≥5N enhances cleaning power, preventing incomplete cleaning caused by the mop lightly touching the floor.
 
-107. 集尘电机：自动集尘款电机吸力≥2000Pa，确保尘盒灰尘完全吸入集尘袋。
+107. Dust Collection Motor: For auto-emptying models, the motor suction should be ≥2000Pa to ensure dust in the bin is completely sucked into the dust bag.
 
-108. 集尘袋材质：无纺布集尘袋防漏灰、容量大，可降解材质更环保，根据需求选择。
+108. Dust Bag Material: Non-woven dust bags are leak-proof and have large capacity; biodegradable materials are more eco-friendly—choose based on needs.
 
-109. 热风烘干温度：自动洗拖布款烘干温度≥50℃，烘干时间≤2小时，避免拖布潮湿发霉。
+109. Hot Air Drying Temperature: For models with automatic mop washing, drying temperature should be ≥50°C and drying time ≤2 hours to prevent mold due to damp mops.
 
-110. 烘干噪音：热风烘干时噪音≤50dB，避免噪音过大影响生活。
+110. Drying Noise: During hot air drying, noise should be ≤50dB to avoid excessive noise affecting daily life.
 
-111. 导航传感器：激光传感器带防尘盖，避免灰尘遮挡影响定位精准度。
+111. Navigation Sensor: Laser sensors with dust covers prevent dust obstruction from affecting positioning accuracy.
 
-112. 避障传感器数量：≥6组避障传感器，识别范围更广，避障效果更稳定。
+112. Number of Obstacle Avoidance Sensors: ≥6 sets of obstacle avoidance sensors provide a wider recognition range and more stable obstacle avoidance performance.
 
-113. 机身固件：出厂固件版本稳定，避免购买后频繁更新固件解决bug。
+113. Firmware Version: Factory firmware versions should be stable to avoid frequent updates after purchase to fix bugs.
 
-114. 清洁模式切换：可通过机身按键、APP、语音三种方式切换，操作更灵活。
+114. Cleaning Mode Switching: Modes can be switched via body buttons, APP, or voice commands for more flexible operation.
 
-115. 低电量续航：剩余电量≤10%时可续航≥10分钟，确保能返回充电座。
+115. Low Battery Endurance: When remaining battery is ≤10%, it should last ≥10 minutes to ensure the robot can return to the charging dock.
 
-116. 电池保护：支持过充、过放、短路保护，延长电池寿命，避免安全隐患。
+116. Battery Protection: Supports overcharge, over-discharge, and short-circuit protection to extend battery life and avoid safety hazards.
 
-117. 尘盒拆卸：一键拆卸尘盒，无需工具，清洁更便捷，避免残留灰尘。
+117. Dust Bin Removal: One-click removal of the dust bin without tools makes cleaning more convenient and prevents residual dust.
 
-118. 拖布支架拆卸：拖布支架可快速拆卸，便于清洗和更换，避免残留污渍。
+118. Mop Bracket Removal: The mop bracket can be quickly removed for easy washing and replacement, preventing residual stains.
 
-119. 边刷安装：卡扣式安装边刷，无需螺丝，更换更快捷，避免安装不当损坏转轴。
+119. Side Brush Installation: Clip-on installation for side brushes requires no screws, allowing quicker replacement and preventing damage to the rotating shaft due to improper installation.
 
-120. 充电座清洁：充电座表面易清洁，充电触点可擦拭，避免氧化影响充电效果。
+120. Charging dock cleaning: The charging dock surface is easy to clean, and the charging contacts can be wiped to avoid oxidation affecting charging performance.
 
-121. 地面坡度适配：可在≤15°坡度地面正常工作，避免在斜坡上打滑或下滑。
+121. Floor slope adaptation: Can operate normally on floors with a slope of ≤15°, avoiding slipping or sliding down on slopes.
 
-122. 清洁液类型：专用清洁液可增强去污和除味效果，避免使用家用洗洁精损伤拖布和地面。
+122. Cleaning solution type: Dedicated cleaning solutions enhance stain removal and deodorizing effects; avoid using household dish soap which may damage mopping pads and floors.
 
-123. 机身指示灯亮度：指示灯亮度适中，夜间不刺眼，同时能清晰识别状态。
+123. Body indicator light brightness: Indicator lights have moderate brightness, not glaring at night while allowing clear status identification.
 
-124. 防误触按键：机身按键带防误触设计，避免搬运时误触开启清扫。
+124. Anti-accidental-touch buttons: Body buttons feature anti-accidental-touch design to prevent accidental activation of cleaning during moving.
 
-125. 多账号共享：APP支持多账号共享控制，家人可同时操作，权限可设置。
+125. Multi-account sharing: APP supports multi-account shared control, allowing family members to operate simultaneously with configurable permissions.
 
-126. 清扫路径可视化：APP实时显示清扫路径，便于查看漏扫区域，手动补充清扫。
+126. Cleaning path visualization: APP displays cleaning paths in real time, facilitating review of missed areas for manual supplementary cleaning.
 
-127. 电机散热效率：长时间工作（≥2小时）电机温度≤60℃，避免过热保护影响清洁。
+127. Motor heat dissipation efficiency: During long-term operation (≥2 hours), motor temperature remains ≤60°C, avoiding overheating protection that affects cleaning.
 
-128. 驱动轮寿命：驱动轮使用寿命≥1000小时，磨损后可单独更换，无需更换整机。
+128. Drive wheel lifespan: Drive wheels have a service life of ≥1000 hours; when worn, they can be replaced individually without replacing the entire unit.
 
-129. 万向轮寿命：万向轮使用寿命≥800小时，转动灵活无卡顿，定期润滑可延长寿命。
+129. Caster wheel lifespan: Caster wheels have a service life of ≥800 hours, rotating flexibly without jamming; regular lubrication extends their lifespan.
 
-130. 尘盒密封垫：密封垫柔软有弹性，确保尘盒闭合后无漏灰，定期清洁避免老化。
+130. Dust bin sealing gasket: The sealing gasket is soft and elastic, ensuring no dust leakage after the dust bin is closed; regular cleaning prevents aging.
 
-131. 水箱水位显示：透明水箱便于查看水位，部分机型带水位传感器，APP提示加水。
+131. Water tank level display: Transparent water tanks facilitate viewing of water levels; some models include water level sensors, with APP prompts for refilling.
 
-132. 污水箱水位显示：透明污水箱可查看脏污程度，及时倾倒，避免污水溢出。
+132. Dirty water tank level display: Transparent dirty water tanks allow checking of dirtiness levels; empty promptly to avoid overflow.
 
-133. 清洁效率：每小时清扫面积≥20㎡，效率更高，适合大面积快速清洁。
+133. Cleaning efficiency: Sweeps an area of ≥20 m² per hour, offering higher efficiency suitable for rapid cleaning of large areas.
 
-134. 地毯深度清洁：支持地毯深度清扫模式，主刷高速旋转+大吸力，去除地毯深层灰尘。
+134. Deep carpet cleaning: Supports deep carpet cleaning mode, with high-speed main brush rotation + strong suction to remove deep-seated dust from carpets.
 
-135. 硬质地面清洁：针对瓷砖、大理石等硬质地面，优化拖布转速和出水量，清洁更彻底。
+135. Hard floor cleaning: Optimizes mop rotation speed and water output for hard floors such as tiles and marble, achieving more thorough cleaning.
 
-136. 宠物粪便处理：带宠物粪便识别功能，避免碾压扩散，部分机型可自动避开并提示清理。
+136. Pet waste handling: Features pet waste recognition to avoid crushing and spreading; some models automatically avoid it and prompt for cleanup.
 
-137. 机身缝隙密封：机身缝隙带密封胶条，防止灰尘和水汽进入内部，保护电路。
+137. Body gap sealing: Body gaps are equipped with sealing strips to prevent dust and moisture from entering the interior, protecting circuits.
 
-138. 按键反馈：机身按键按压反馈清晰，力度适中，避免按压过紧损坏按键。
+138. Button feedback: Body buttons provide clear press feedback with moderate force, avoiding damage from excessive pressing.
 
-139. APP推送：支持清洁完成、故障提醒、低电量等推送，及时掌握机身状态。
+139. APP push notifications: Supports push notifications for cleaning completion, fault alerts, low battery, etc., enabling timely awareness of device status.
 
-140. 网络稳定性：WiFi连接稳定，距离路由器≥10米仍可正常控制，无频繁断连。
+140. Network stability: WiFi connection is stable; normal control is maintained even at distances ≥10 meters from the router, without frequent disconnections.
 
-141. 充电座定位：充电座带定位灯，便于机器人在光线较暗环境下找到充电座。
+141. Charging dock positioning: Charging docks feature positioning lights, helping robots locate the dock in dimly lit environments.
 
-142. 机身材质耐刮性：ABS材质耐刮性强，避免被家具、尖锐杂物刮伤，影响外观。
+142. Body material scratch resistance: ABS material has strong scratch resistance, preventing scratches from furniture or sharp debris that affect appearance.
 
-143. 拖布吸水性：超细纤维拖布吸水率≥300%，快速吸收地面水分，减少水痕。
+143. Mop pad absorbency: Microfiber mop pads have an absorption rate of ≥300%, quickly absorbing floor moisture and reducing water marks.
 
-144. 拖布去污力：拖布可去除地面≥90%污渍，顽固污渍经2-3次擦拭可清除。
+144. Mop cleaning power: The mop can remove ≥90% of stains from the floor; stubborn stains can be cleared after 2-3 wipes.
 
-145. 主刷转速：主刷转速≥2000转/分钟，转速可调节，适配不同地面和灰尘类型。
+145. Main brush speed: The main brush rotates at ≥2000 rpm, with adjustable speed to suit different floor types and dust levels.
 
-146. 边刷转速：边刷转速≥1500转/分钟，确保边角灰尘被清扫干净，不残留。
+146. Side brush speed: The side brush rotates at ≥1500 rpm, ensuring corner dust is thoroughly cleaned without residue.
 
-147. 集尘频率：自动集尘款每清扫1-2次自动集尘，避免尘盒满溢影响清洁。
+147. Dust collection frequency: Models with automatic dust collection perform auto-emptying every 1-2 cleaning sessions to prevent dust bin overflow from affecting cleaning.
 
-148. 集尘噪音：自动集尘时噪音≤60dB，避免噪音过大影响生活。
+148. Dust collection noise: Noise during automatic dust collection is ≤60dB, avoiding excessive noise that disrupts daily life.
 
-149. 烘干效果：拖布烘干后含水率≤10%，避免潮湿滋生细菌和异味。
+149. Drying effect: After drying, the mop's moisture content is ≤10%, preventing bacterial growth and odors caused by dampness.
 
-150. 固件升级提醒：APP提示固件更新，可选择自动或手动升级，优化使用体验。
+150. Firmware update reminder: The APP notifies users of firmware updates, allowing choice between automatic or manual upgrades to optimize user experience.
 
-151. 清扫模式切换速度：模式切换响应时间≤2秒，操作流畅无延迟。
+151. Cleaning mode switching speed: Mode switching response time is ≤2 seconds, ensuring smooth operation without delay.
 
-152. 定位误差：导航定位误差≤5cm，确保清扫路径精准，无重复和漏扫。
+152. Positioning error: Navigation positioning error is ≤5cm, ensuring precise cleaning paths without repetition or missed areas.
 
-153. 避障误差：避障识别误差≤3cm，避免误判碰撞或过度避让漏扫。
+153. Obstacle avoidance error: Obstacle recognition error is ≤3cm, preventing false collision judgments or excessive avoidance leading to missed spots.
 
-154. 电池充电循环：满充满放一次为一个循环，优质电池循环寿命≥800次。
+154. Battery charge cycles: One full charge and discharge cycle counts as one cycle; high-quality batteries have a cycle life of ≥800 cycles.
 
-155. 电机启动噪音：电机启动时噪音≤55dB，避免突然噪音惊吓家人和宠物。
+155. Motor startup noise: Noise during motor startup is ≤55dB, avoiding sudden noises that may startle family members and pets.
 
-156. 机身振动：工作时机身振动≤0.5mm，避免振动过大导致移位或损坏家具。
+156. Body vibration: Vibration of the body during operation is ≤0.5mm, preventing displacement or furniture damage due to excessive vibration.
 
-157. 清洁液残留：拖布清洁后无清洁液残留，避免地面发黏，影响行走体验。
+157. Cleaning solution residue: No cleaning solution residue remains on the mop after cleaning, preventing sticky floors that affect walking comfort.
 
-158. 尘盒异味：密封尘盒+活性炭滤网可吸附异味，避免灰尘异味扩散。
+158. Dust bin odor: Sealed dust bins + activated carbon filters absorb odors, preventing the spread of dust-related smells.
 
-159. 边刷材质：尼龙+硅胶混合材质边刷，耐磨且不易变形，清洁效果优于纯尼龙边刷。
+159. Side brush material: Side brushes made of nylon + silicone mixed material are wear-resistant and less prone to deformation, offering better cleaning performance than pure nylon brushes.
 
-160. 主刷材质：橡胶+尼龙组合主刷，防缠绕且去污力强，适配不同地面。
+160. Main brush material: Main brushes combining rubber + nylon are anti-tangle and highly effective at removing dirt, suitable for various floor types.
 
-161. 充电座占地面积：充电座尺寸≤30cm×20cm，节省空间，便于摆放。
+161. Charging dock footprint: The charging dock dimensions are ≤30cm×20cm, saving space and facilitating placement.
 
-162. 机身底部设计：底部平整无凸起，避免勾住地毯边缘或电线。
+162. Bottom design: The bottom is flat with no protrusions, preventing snagging on carpet edges or cables.
 
-163. 防毛发缠绕电机：电机带防毛发缠绕设计，减少毛发进入电机影响运转。
+163. Anti-hair-wrap motor: The motor features an anti-hair-wrap design, reducing hair entry into the motor that could affect operation.
 
-164. 清洁日志保存：APP保存近30天清扫日志，便于查看清洁记录和统计。
+164. Cleaning log storage: The APP stores cleaning logs from the last 30 days, facilitating review of cleaning records and statistics.
 
-165. 故障代码查询：APP提供故障代码查询和解决方案，简单故障可自行排查。
+165. Fault code lookup: The APP provides fault code lookups and solutions, allowing users to troubleshoot simple faults independently.
 
-166. 远程诊断：售后可通过APP远程诊断故障，无需上门即可解决部分问题。
+166. Remote diagnosis: After-sales support can diagnose faults remotely via the APP, resolving some issues without requiring an on-site visit.
 
-167. 配件兼容性：易损件与同品牌多款机型兼容，购买更方便，成本更低。
+167. Accessory compatibility: Consumable parts are compatible with multiple models from the same brand, making purchases more convenient and cost-effective.
 
-168. 机身颜色耐脏性：深色机身（黑色、灰色）耐脏性优于浅色，避免明显污渍。
+168. Body color stain resistance: Dark-colored bodies (black, gray) have better stain resistance than light colors, avoiding visible stains.
 
-169. 拖布烘干功率：烘干功率≥30W，烘干速度快，能耗合理。
+169. Mop drying power: Drying power ≥30W, fast drying speed, reasonable energy consumption.
 
-170. 集尘袋更换：集尘袋带撕拉设计，更换时无灰尘溢出，清洁卫生。
+170. Dust bag replacement: The dust bag features a tear-off design; no dust spills during replacement, ensuring hygienic cleaning.
 
-171. 导航避障协同：导航与避障功能协同工作，遇到障碍物时快速调整路径，不影响清扫效率。
+171. Navigation and obstacle avoidance coordination: Navigation and obstacle avoidance functions work in synergy; when encountering obstacles, the path is quickly adjusted without affecting cleaning efficiency.
 
-172. 低噪音模式：低噪音模式下噪音≤45dB，适合夜间或婴儿休息时使用。
+172. Low noise mode: In low noise mode, noise ≤45dB, suitable for use at night or when infants are resting.
 
-173. 强力模式：强力模式吸力提升50%以上，适合处理顽固污渍和深层灰尘。
+173. Strong mode: Suction power increases by more than 50% in strong mode, suitable for handling stubborn stains and deep-seated dust.
 
-174. 机身防水等级：IPX5级防水可应对泼溅水，适合卫生间门口等潮湿区域清洁。
+174. Body waterproof rating: IPX5 waterproof rating can handle splashes, suitable for cleaning damp areas such as bathroom entrances.
 
-175. 充电座防水：充电座防水等级≥IPX3，避免潮湿环境短路。
+175. Charging dock waterproofing: Charging dock waterproof rating ≥IPX3, preventing short circuits in humid environments.
 
-176. 电机保护：电机带过热、过载保护，避免长时间高负荷工作损坏。
+176. Motor protection: The motor has overheat and overload protection to prevent damage from prolonged high-load operation.
 
-177. 尘盒过滤层数：≥3层过滤（初效+HEPA+活性炭），过滤效果更彻底，减少二次扬尘。
+177. Dust bin filter layers: ≥3 layers of filtration (pre-filter + HEPA + activated carbon), providing more thorough filtration and reducing secondary dust dispersion.
 
-178. 拖布固定方式：魔术贴+卡扣双重固定，避免拖地时拖布脱落。
+178. Mop pad fixation method: Double fixation with Velcro + clips prevents the mop pad from falling off during mopping.
 
-179. 边刷高度调节：边刷高度可调节，适配不同地面高度，避免刮伤地面。
+179. Side brush height adjustment: Side brush height is adjustable to adapt to different floor heights, avoiding scratches on the floor.
 
-180. 主刷高度调节：主刷高度自动调节，根据地面材质切换，保护木地板不被刮伤。
+180. Main brush height adjustment: Main brush height adjusts automatically, switching based on floor material to protect wooden floors from scratches.
 
-181. 清扫预约：可预约未来7天清扫计划，每日不同时间、模式均可设置。
+181. Cleaning schedule: Can schedule cleaning plans for the next 7 days, allowing settings for different times and modes each day.
 
-182. 临时暂停：支持临时暂停清扫，恢复后继续原路径清扫，无需重新开始。
+182. Temporary pause: Supports temporary pausing of cleaning; after resuming, it continues along the original path without needing to restart.
 
-183. 机身自检：开机自动自检，检测电机、传感器、电池等部件是否正常，异常提示。
+183. Self-check: Automatic self-check upon startup detects whether components such as the motor, sensors, and battery are normal, with alerts for abnormalities.
 
-184. 灰尘盒警示：尘盒满溢时APP和机身指示灯双重警示，及时清理。
+184. Dust bin warning: When the dust bin is full, dual warnings via APP and body indicator lights prompt timely emptying.
 
-185. 污水盒警示：污水盒满溢时自动停止湿拖，避免污水溢出污染地面。
+185. Dirty water tank warning: When the dirty water tank is full, wet mopping stops automatically to prevent dirty water overflow from contaminating the floor.
 
-186. 拖布清洁提醒：拖布使用≥3次后APP提醒清洗，保持清洁效果。
+186. Mop pad cleaning reminder: After the mop pad has been used ≥3 times, the APP reminds you to wash it to maintain cleaning effectiveness.
 
-187. 滤网清洁提醒：滤网使用≥1个月APP提醒清洁或更换，确保过滤效果。
+187. Filter cleaning reminder: After the filter has been used for ≥1 month, the APP reminds you to clean or replace it to ensure filtration performance.
 
-188. 边刷清洁提醒：边刷使用≥2个月APP提醒清洁或更换，避免毛发缠绕影响效果。
+188. Side brush cleaning reminder: After the side brush has been used for ≥2 months, the APP reminds you to clean or replace it to avoid hair tangling that affects performance.
 
-189. 机身清洁难度：机身表面光滑无死角，用湿抹布即可清洁，无残留污渍。
+189. Body cleaning difficulty: The body surface is smooth with no dead corners; it can be cleaned with a damp cloth, leaving no residual stains.
 
-190. 充电座清洁难度：充电座无复杂结构，擦拭即可清洁，避免灰尘堆积影响充电。
+190. Charging dock cleaning difficulty: The charging dock has no complex structure; wiping is sufficient for cleaning, preventing dust accumulation from affecting charging.
 
-191. 多模式组合：支持干扫+湿拖组合模式，一次完成除尘和拖地，高效便捷。
+191. Multi-mode combination: Supports a combined dry sweeping + wet mopping mode, completing dust removal and mopping in one go, efficient and convenient.
 
-192. 单独吸尘模式：可关闭湿拖功能，单独开启吸尘，适合干燥天气清洁。
+192. Suction-only mode: The wet mopping function can be turned off to enable suction only, suitable for cleaning in dry weather.
 
-193. 单独湿拖模式：可关闭吸尘功能，单独开启湿拖，适合二次清洁或抛光地面。
+193. Wet-mopping-only mode: The suction function can be turned off to enable wet mopping only, suitable for secondary cleaning or floor polishing.
 
-194. 语音反馈：执行指令后有语音反馈，确认操作成功，盲人用户也可使用。
+194. Voice feedback: Provides voice feedback after executing commands to confirm successful operation, making it accessible for visually impaired users.
 
-195. 场景模式：预设客厅、卧室、厨房等场景模式，一键切换适配不同区域清洁需求。
+195. Scene modes: Preset scene modes for living rooms, bedrooms, kitchens, etc., allowing one-click switching to adapt to different area cleaning needs.
 
-196. 能耗显示：APP显示实时能耗和累计能耗，了解使用成本，优化清洁计划。
+196. Energy consumption display: The app displays real-time and cumulative energy consumption, helping users understand usage costs and optimize cleaning plans.
 
-197. 机身耐用性：正常使用情况下机身寿命≥5年，核心部件寿命≥8年。
+197. Body durability: Under normal use, the body lifespan is ≥5 years, and core component lifespan is ≥8 years.
 
-198. 售后配件供应：售后配件供应周期≥5年，避免机型淘汰后无法购买易损件。
+198. After-sales parts supply: The after-sales parts supply cycle is ≥5 years, preventing situations where consumable parts cannot be purchased after a model is discontinued.
 
-199. 个性化设置：可自定义吸力、出水量、清扫速度等参数，适配个人清洁习惯。
+199. Personalized settings: Parameters such as suction power, water output, and cleaning speed can be customized to suit individual cleaning habits.
 
-200. 综合性价比：结合价格、性能、售后、配件成本综合评估，不盲目追求高价，选择适配自身需求的机型。
+200. Overall cost-effectiveness: Comprehensively evaluate price, performance, after-sales service, and parts costs; do not blindly pursue high prices, but choose models that fit your own needs.

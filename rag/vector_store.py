@@ -29,24 +29,24 @@ class VectorStoreService:
 
     def load_document(self):
         """
-        从数据文件夹内读取数据文件，转为向量存入向量库
-        要计算文件的md5做去重
+        Read documents from the data directory, embed them, and store them in the vector database.
+        Compute file MD5 hashes to skip previously processed content.
         :return:
         """
 
         def check_md5_hex(md5_for_check: str):
             if not os.path.exists(get_abs_path(chroma_conf["md5_hex_store"])):
-                # 创建文件
+                # Create file
                 open(get_abs_path(chroma_conf["md5_hex_store"]), "w", encoding="utf-8").close()
-                return False            #md5没处理过
+                return False            #Hash has not been processed
 
             with open(get_abs_path(chroma_conf["md5_hex_store"]), "r", encoding="utf-8") as f:
                 for line in f.readlines():
                     line = line.strip()
                     if line == md5_for_check:
-                      return True     #md5处理过
+                      return True     #Hash has already been processed
 
-                return False            #md5没处理过
+                return False            #Hash has not been processed
 
         def save_md5_hex(md5_for_check:str):
             with open(get_abs_path(chroma_conf["md5_hex_store"]), "a", encoding="utf-8") as f:
@@ -68,36 +68,36 @@ class VectorStoreService:
         )
 
         for path in allowed_files_path:
-            # 获取文件的md5
+            # Get the file MD5 hash
             md5_hex = get_file_md5_hex(path)
 
             if check_md5_hex(md5_hex):
-                logger.info(f"[加载知识库]{path}内容已经存在知识库内，跳过")
+                logger.info(f"[Knowledge ingestion]{path} content is already in the knowledge base; skipping")
                 continue
 
             try:
                 documents: list[Document] = get_file_documents(path)
 
                 if not documents:
-                    logger.warning(f"[加载知识库]{path}内没有有效文本内容，跳过")
+                    logger.warning(f"[Knowledge ingestion]{path} contains no valid text; skipping")
                     continue
 
                 split_document: list[Document] = self.spliter.split_documents(documents)
 
                 if not split_document:
-                    logger.warning(f"[加载知识库]{path}分片后没有有效文本内容，跳过")
+                    logger.warning(f"[Knowledge ingestion]{path} has no valid text after splitting; skipping")
                     continue
 
-                #将内容存入向量库
+                #Insert the content into the vector store
                 self.vector_store.add_documents(split_document)
 
-                #记录这个已经处理好的文件的md5，避免下次重复加载
+                #Record the processed file hash to avoid loading the same content again
                 save_md5_hex(md5_hex)
 
-                logger.info(f"[加载知识库]{path}内容加载成功")
+                logger.info(f"[Knowledge ingestion]{path} content loaded successfully")
             except Exception as e:
-                # exc_info为True会记录详细的报错堆栈，如果为False仅记录报信息本身
-                logger.error(f"[加载知识库]{path}加载失败：{str(e)}", exc_info=True)
+                # Set exc_info to True to log the traceback; False logs only the error message
+                logger.error(f"[Knowledge ingestion]{path} loading failed: {str(e)}", exc_info=True)
                 continue
 
 
@@ -107,7 +107,7 @@ if __name__ == "__main__":
     vs.load_document()
 
     retriever = vs.get_retriever()
-    res = retriever.invoke("迷路")
+    res = retriever.invoke("lost navigation")
     for r in res:
         print(r.page_content)
         print("-"*20)

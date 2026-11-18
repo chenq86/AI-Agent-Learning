@@ -16,3 +16,6 @@ PyYAML
 
 # Web interface
 streamlit
+
+
+langchain-openai
